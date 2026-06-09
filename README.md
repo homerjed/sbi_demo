@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>SBI demo</h1>
-</p>
+<p align="center"><h1 align="center">SBI demo</h1></p>
 
 This repository contains a basic introduction to density-estimation simulation-based inference (SBI). In the notebook `sbi.ipynb` we fit a normalising flow using neural posterior estimation (NPE).
 
